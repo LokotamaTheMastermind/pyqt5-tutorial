@@ -1,0 +1,39 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+altgraph=0.17=pyhd8ed1ab_0
+astroid=2.4.2=py38h32f6830_1
+ca-certificates=2020.12.5=h5b45459_0
+certifi=2020.12.5=py38haa244fe_0
+colorama=0.4.4=pyh9f0ad1d_0
+future=0.18.2=py38haa244fe_2
+icu=58.2=vc14hc45fdbb_0
+isort=5.6.4=py_0
+jpeg=9b=vc14h4d7706e_1
+lazy-object-proxy=1.4.3=py38h1e8a9f7_2
+libpng=1.6.37=h2a8f88b_0
+macholib=1.14=pyh9f0ad1d_1
+mccabe=0.6.1=py_1
+openssl=1.1.1i=h8ffe710_0
+pefile=2019.4.18=py_0
+pip=20.3.3=pyhd8ed1ab_0
+pyinstaller=4.1=py38hd0d6af5_1
+pyinstaller-hooks-contrib=2020.11=pyhd8ed1ab_0
+pylint=2.6.0=py38h32f6830_1
+pyqt=5.9.2=py38ha925a31_4
+python=3.8.2=h5fd99cc_7_cpython
+python_abi=3.8=1_cp38
+pywin32=228=py38h1e8a9f7_0
+pywin32-ctypes=0.2.0=py38h32f6830_1002
+qt=5.9.7=vc14h73c81de_0
+setuptools=49.6.0=py38h9bdc248_2
+sip=4.19.24=py38ha925a31_0
+six=1.15.0=pyh9f0ad1d_0
+sqlite=3.34.0=h8ffe710_0
+toml=0.10.2=pyhd8ed1ab_0
+vc=14.2=hb210afc_2
+vs2015_runtime=14.28.29325=h5e1d092_0
+wheel=0.36.2=pyhd3deb0d_0
+wincertstore=0.2=py38h32f6830_1005
+wrapt=1.11.2=py38h1e8a9f7_1
+zlib=1.2.11=vc14h1cdd9ab_1

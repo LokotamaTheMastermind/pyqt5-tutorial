@@ -1,0 +1,4 @@
+hidden/
+.vscode/
+ui/
+__pycache__/
