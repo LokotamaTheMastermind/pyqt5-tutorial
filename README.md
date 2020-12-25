@@ -1,5 +1,7 @@
 # PyQt5 Tutorial
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/LokotamaTheMastermind/pyqt5-tutorial?style=flat-square) &nbsp;![GitHub](https://img.shields.io/github/license/LokotamaTheMastermind/pyqt5-tutorial?style=flat-square) &nbsp;![Requirements Status](https://requires.io/github/LokotamaTheMastermind/pyqt5-tutorial/requirements.svg?branch=main)
+
 ## Description
 
 This is a simple PyQt5 application made using the `Qt Designer`
