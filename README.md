@@ -14,6 +14,8 @@ To change the button text and the label below the button. The application the co
 
 - A Windows PC (preferably `Windows 10`)
 
+**Note - if you wanna use the raw source code you must have anaconda installed**
+
 ## Dependencies / Helpers
 
 - PyQt5
